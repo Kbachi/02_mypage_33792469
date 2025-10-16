@@ -13,7 +13,7 @@ http.createServer(function (req, res) {
       </head>
       <body>
         <h1>Hello, I am Usayd Hossenbaccus</h1>
-        <h2>Welcome to my Node.js web app</h2>
+        <h2>Welcome to my Node.js web app - I am testing the virtual machine push</h2>
         <p> Lab 1 of Dynamic Web Applications.</p>
       </body>
     </html>
